@@ -1,1 +1,1 @@
-# Make-fake-album-game
+# Make-fake-album-cover-game
